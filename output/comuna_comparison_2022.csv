@@ -1,0 +1,5 @@
+"estimate","comunas","correlation","mean_abs_diff_points","share_inside_official_interval"
+"direct, comunas in the model",308,0.914810600437132,2.26916151986422,0.954545454545455
+"fay-herriot, comunas in the model",308,0.934033731799935,1.41858447270948,0.99025974025974
+"synthetic, comunas outside the model",30,0.345608716517956,7.054802627132,0.733333333333333
+"fay-herriot or synthetic, all comunas",338,0.842780535445533,1.91884052191858,0.967455621301775
