@@ -1,0 +1,6 @@
+# microdata and downloaded tables never go to GitHub
+data/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
